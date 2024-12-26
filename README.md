@@ -23,7 +23,7 @@ Payment Integration: Secure payment gateway integration.
 Screenshots
 
 ## App Demo
-<video src="assets/screen_record/screen.mov" width="600" controls>
+<video src="assets/screen_record/screen.mov" width="600" height="800" controls>
 </video>
 
 Installation
